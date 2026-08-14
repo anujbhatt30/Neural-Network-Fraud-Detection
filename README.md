@@ -12,7 +12,7 @@ Three neural network architectures were developed and evaluated. Based on the cu
 
 Fraud detection is one of the most practical and high-impact applications of machine learning in the real world — banks, fintech companies, and e-commerce platforms lose massive amounts of money every year to fraudulent transactions. I wanted to move beyond textbook classification problems and work on something that mirrors an actual industry use case: **highly imbalanced data, business-critical costs of error, and a need for more than just "accuracy."**
 
-Coming from an MBA in AI & Data Science, I was especially interested in how a technical model like this connects to a real business decision — where should the classification threshold sit, and what does that mean for the business trade-off between blocking fraud and annoying genuine customers?
+Coming from an Student of AI & Data Science, I was especially interested in how a technical model like this connects to a real business decision — where should the classification threshold sit, and what does that mean for the business trade-off between blocking fraud and annoying genuine customers?
 
 ### 🎯 Objective
 
