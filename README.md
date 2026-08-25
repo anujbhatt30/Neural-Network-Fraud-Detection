@@ -633,6 +633,8 @@ These curves help identify:
 
 ![Training Validation Loss](Images/training_validation_loss.png)
 
+---
+
 ### Training and Validation Accuracy
 
 ![Training Validation Accuracy](Images/training_validation_accuracy.png)
@@ -916,12 +918,6 @@ The model is **not deployed yet**. Deployment and productionization are planned 
 
 ---
 
-# 👨‍💻 Author
-
-## Anuj Bhatt
-
-Artificial Intelligence & Data Science
-
 ### Areas of Interest
 
 * Data Science
@@ -959,3 +955,10 @@ Final Model Selection
 ```
 
 > **This project demonstrates the complete model-development process rather than simply training a neural network: preprocessing, imbalance handling, experimentation, evaluation, comparison, and threshold-based decision making.**
+
+
+# 👨‍💻 Author
+
+## Anuj Bhatt
+
+Artificial Intelligence & Data Science
