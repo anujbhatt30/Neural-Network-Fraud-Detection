@@ -465,8 +465,7 @@ Final Model Selection
 
 ## 👤 Author
 
-**Anuj Bhatt**
-MBA (AI & Data Science) 
+**Anuj Bhatt** 
 
 ---
 *This project was built as part of exploring machine learning approaches to imbalanced classification problems in the fraud detection domain.*
