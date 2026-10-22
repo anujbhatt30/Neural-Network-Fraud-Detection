@@ -467,5 +467,5 @@ Final Model Selection
 
 **Anuj Bhatt** 
 
-*This project was built as part of exploring machine learning approaches to imbalanced classification problems in the fraud detection domain.*
+If you find helpfull dont forget to give a star
 
