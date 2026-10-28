@@ -1,4 +1,4 @@
-# Fraud Detection Model
+# Fraud Detection Model (ML)
 
 A machine learning project to detect fraudulent transactions using [FILL IN: dataset name, e.g. "the Kaggle Credit Card Fraud Detection dataset"]. Three models were built and compared to handle the severe class imbalance typical of fraud detection problems.
 
